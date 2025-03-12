@@ -1,0 +1,25 @@
+Week 1 is from row 1 to row 420 in the file "control_incongruent.xlsx"
+in milliseconds
+Col B RTdata for Subject 1
+Col C RTdata for Subject 2
+Col D RTdata for Subject 3
+Col E RTdata for Subject 4
+Col F RTdata for Subject 5
+Col G RTdata for Subject 6
+Col H RTdata for Subject 7
+
+Col J RTdata for Subject 9
+Col K RTdata for Subject 10
+Col L RTdata for Subject 11
+Col M RTdata for Subject 12
+Col N RTdata for Subject 13
+Col O RTdata for Subject 14
+
+Col Q RTdata for Subject 16
+Col R RTdata for Subject 17
+Col S RTdata for Subject 18
+
+Col U RTdata for Subject 20
+Col V RTdata for Subject 21
+Col W RTdata for Subject 22
+Col X RTdata for Subject 23
